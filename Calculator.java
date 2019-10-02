@@ -1,3 +1,4 @@
+// VSETKO TI TU DOJEBEM
 package sk.itsovy.dolinsky.family;
 
 /**
